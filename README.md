@@ -1,6 +1,6 @@
-# responsive
+# Flutter Responsive
 
-A new Flutter project.
+A new Flutter project using Queries to change the app on diferent devices.
 
 ## Getting Started
 
