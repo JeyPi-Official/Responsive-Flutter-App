@@ -1,5 +1,3 @@
-Here's a README draft for your **Responsive Flutter App** GitHub repository:
-
 ---
 
 # Responsive Flutter App
